@@ -12,7 +12,7 @@ samples/*.jpg
 samples/*.jpeg
 samples/*.png
 samples/*.pdf
-results/
+results/*.json
 
 # Temporary files
 /tmp/
