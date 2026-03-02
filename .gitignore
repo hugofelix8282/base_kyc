@@ -1,0 +1,23 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# AWS Credentials
+.aws/
+
+# Test files
+samples/*.jpg
+samples/*.jpeg
+samples/*.png
+samples/*.pdf
+results/
+
+# Temporary files
+/tmp/
+*.tmp
+
+# IDE
+.vscode/
+.idea/
